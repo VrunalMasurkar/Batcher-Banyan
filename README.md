@@ -1,2 +1,7 @@
 # Batcher-Banyan
-Implementation of Batcher Banyan Network using Scala programming language
+
+Hello Viewers,
+
+This repository contains the implementation of Batcher Banyan Network using Scala programming language.
+
+Happy Coding!
